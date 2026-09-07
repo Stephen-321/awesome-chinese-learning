@@ -4,6 +4,18 @@ If you have suggestions please feel free to submit an issue or a pull request :)
 
 ## Table of content
 
+## HSK Preparation
+HSK is a standardized Chinese proficiency test for non-native Chinese learners. 
+
+HSK levels describe a learner's ability to use Chinese as a second language. The official Chinese Testing Service currently lists six graded exams, HSK 1 through HSK 6, and one combined advanced exam that reports a result at HSK 7, HSK 8, or HSK 9.
+### HSK Exam Practice
+
+[HSK Exam](https://hskexam.net/hsktests.html) provides online HSK practice tests to help Chinese learners prepare for the HSK exam.
+
+### HSK Vocabulary
+
+[HSK Vocabulary](https://hskexam.net/vocabulary.html) provides Official New HSK 3.0 vocabulary lists organized by level, with Chinese words, pinyin, parts of speech, English translations, and downloadable PDFs.
+
 <!-- Beginning of the table of content --> 
 * [Flashcards](#flashcards)
   * [Decks](#decks)
